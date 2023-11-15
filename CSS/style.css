@@ -1,0 +1,28 @@
+body{
+  background: chocolate;
+}
+a{
+font-size:x-large;
+ display: block;
+ text-align: center;
+}
+
+  h1,h2,p{
+    text-align: center;
+  }
+  h1,h2{
+    font-size: 42px;
+  }
+  p{
+    font-size: 25px;
+  }
+  .email-link{
+    color: white;
+  }
+
+.croissant-photo{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
